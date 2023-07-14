@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269738835509",
+    "project_id": "themodernmess-69ab5",
+    "storage_bucket": "themodernmess-69ab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269738835509:android:542facfb0f0598b593bb7c",
+        "android_client_info": {
+          "package_name": "com.example.themodernmess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269738835509-53p7i4btrqskdlkahlkvmtrm0kkhkq1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv2twZ3CgGMvyJSMEkjyYIlolT2Nuq62c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269738835509-53p7i4btrqskdlkahlkvmtrm0kkhkq1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
